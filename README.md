@@ -1,7 +1,7 @@
 ### Olá, sou o Luis Gustavo 
-- 🔭 Hoje em dia faço apenas estágio na faculdade de Direito, estou migrando para T.I . 
+- 🔭 Hoje em dia façoestágio na Leaf Consult.
 - 🌱 Atualmente estudo C#,.Net e SQL 
-- 🤔 Estou a procura de um estágio para adquirir experi~encia prática e poder migrar 100% para o T.I .
+- 🤔 Estou a procura de adquirir experiência prática para aperfeiçoar mais e mais meu trabalho.
 - 📫 Entre em contato comigo no email: lgrb.gustavo@gmail.com.
 - ⚡ Fun fact: Alem da paixão que desenvolvi pela área de T.I, gosto muito de lutar e jogar LOL.
 
