@@ -1,5 +1,5 @@
 ### Olá, sou o Luis Gustavo 
-- 🔭 Hoje em dia façoestágio na Leaf Consult.
+- 🔭 Hoje em dia faço estágio na Leaf Consult.
 - 🌱 Atualmente estudo C#,.Net e SQL 
 - 🤔 Estou a procura de adquirir experiência prática para aperfeiçoar mais e mais meu trabalho.
 - 📫 Entre em contato comigo no email: lgrb.gustavo@gmail.com.
