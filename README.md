@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estagiário na Leaf Consult 🌱<br>- Sempre a procura de EXP 🚀<br>- lgrb.gustavo@gmail.com 📬 <br>- Amo programação, boxe e jogos. 🪁</p>
+<p align="left">- Sempre a procura de EXP 🚀<br>- lgrb.gustavo@gmail.com 📬 <br>- Amo programação, boxe e jogos. 🪁</p>
 
 ###
 
